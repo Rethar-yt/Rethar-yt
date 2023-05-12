@@ -46,5 +46,9 @@
   <a href="https://www.sqlite.org/">
     <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="40" height="40">
   </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https
+<a href="https://www.djangoproject.com/">
+    <img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" alt="Django" width="40" height="40">
+  </a>
+  <a href="https://git-scm.com/downloads">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Bash" width="40" height="40">
+  </a>
