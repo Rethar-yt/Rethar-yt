@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Rethar-yt/Rethar-yt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rethar and I'm a Software Developer. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+📍I'm from South Africa 🇿🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️I've completed the Python Specialization online Courses through University of Michigan 
+
+🌱 I’m currently enrolled in Meta's Back-End Developer Professional Certificate, I've completed thus far:
+✔️ Introduction to Web Development 
+✔️ Python Programming 
+✔️ Version Control
+
+💬 Ask me about anything related to my Projects or what I've studied 
+
+📫 How to reach me: retharyt@gmail.com 
+
+📲 Follow me on linkdn https://za.linkedin.com/in/rethar-osman-abdullah
