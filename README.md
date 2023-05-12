@@ -21,8 +21,8 @@
 </ul>
 <h3>Projects</h3>
 <ul>
-  <li><a href="https://github.com/Rethar-yt/Projects/tree/main/30_Seconds_Style_Game">30 Seconds Cmd Game</a></li>
-  <li><a href="https://github.com/Rethar-yt/Projects/tree/main/Uni_Vat_Tax_Calculator">Universal VAT/Sales Tax Calculator</a></li>
+  <li><a href="https://github.com/Rethar-yt/Projects/tree/main/30_Seconds_Style_Game">30 Seconds Cmd Game🎮</a></li>
+  <li><a href="https://github.com/Rethar-yt/Projects/tree/main/Uni_Vat_Tax_Calculator">Universal VAT/Sales Tax Calculator📲</a></li>
 </ul>
 <h3>Contact Me</h3>
 <ul>
