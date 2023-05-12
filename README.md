@@ -10,7 +10,7 @@
 <h3>About Me</h3>
 <ul>
   <li><strong>Location:</strong> South Africa 🇿🇦</li>
-  <li><strong>Education:</strong> Python Specialization online Courses through The University of Michigan.</li>
+  <li><strong>Education:</strong> Python Specialization - The University of Michigan.</li>
   <li><strong>Current enrollment:</strong> Meta's Back-End Developer Professional Certificate.</li>
   <li><strong>Meta courses completed:</strong></li>
   <ul>
