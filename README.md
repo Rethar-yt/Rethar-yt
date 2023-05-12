@@ -4,6 +4,7 @@
 </head>
 <body>
 <h1>Welcome 👋</h1>
+  <p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*bjxU4SlQTQSmK3Z-UOk0Bg.gif" width=500 height=80 /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rethar-yt&label=Profile%20Visits&color=blueviolet&style=flat" alt="rethar-yt" /> </p>
 <p>My name is <strong>Rethar</strong> and I'm a <strong>Software Developer</strong>. Welcome to my GitHub profile!</p>
 <img align="right" alt="Coding" width="400" src="docs/avento.gif" />
