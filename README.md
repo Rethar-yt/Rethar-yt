@@ -6,9 +6,14 @@ My name is Rethar and I'm a Software Developer. Welcome to my GitHub profile!
 
 ✔️I've completed the Python Specialization online Courses through University of Michigan 
 
-🌱 I’m currently enrolled in Meta's Back-End Developer Professional Certificate, I've completed thus far:
+🌱 I’m currently enrolled in Meta's Back-End Developer Professional Certificate. 
+
+Courses I've completed thus far include:
+
 ✔️ Introduction to Web Development 
+
 ✔️ Python Programming 
+
 ✔️ Version Control
 
 💬 Ask me about anything related to my Projects or what I've studied 
