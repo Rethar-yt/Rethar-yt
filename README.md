@@ -19,6 +19,11 @@
     <li>Version Control</li>
   </ul>
 </ul>
+<h3>Projects</h3>
+<ul>
+  <li><a href="https://github.com/Rethar-yt/Projects/tree/main/30_Seconds_Style_Game">30 Seconds Cmd Game</a></li>
+  <li><a href="https://github.com/Rethar-yt/Projects/tree/main/Uni_Vat_Tax_Calculator">Universal VAT/Sales Tax Calculator</a></li>
+</ul>
 <h3>Contact Me</h3>
 <ul>
   <li><strong>Email:</strong> retharyt@gmail.com</li>
@@ -42,18 +47,4 @@
     <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite" width="40" height="40">
   </a>
   <a href="https://www.djangoproject.com/">
-    <img src="https://www.djangoproject.com/s/img/logos/django-logo-negative.png" alt="Django" width="40" height="40">
-  </a>
-</p>
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
+    <img src="https
