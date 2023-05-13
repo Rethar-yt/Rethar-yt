@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="400" src="docs/avento.gif" />
 <h3>About Me</h3>
 <ul>
-  <li><strong>Location:</strong> South Africa 🇿🇦</li>
+  <li><strong>Location:</strong> South Africa <img src="https://1.bp.blogspot.com/-YBhnn5CCTKs/YEOf9vk83pI/AAAAAAAA44o/2-3rbJmPJ1Ubh_ltafYgB2OVksAvTYDOACLcBGAsYHQ/s0/Flag_of_South_Africa.gif" width="30" height="20"/></li>
   <li><strong>Education:</strong> Python Specialization - The University of Michigan.</li>
   <li><strong>Current enrollment:</strong> Meta's Back-End Developer Professional Certificate.</li>
   <li><strong>Meta courses completed:</strong></li>
@@ -38,6 +38,10 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="40">
+  </a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/64px-Sql_data_base_with_logo.png" alt="SQL logo" width="40" height="40">
   </a>
@@ -53,6 +57,8 @@
   <a href="https://git-scm.com/downloads">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Bash" width="40" height="40">
   </a> 
+  <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Java Script" width="40" height="40"/>
+  </a>
 </p>
   <p>
   <img src="https://art.pixilart.com/16c3630a9147a08.gif" alt="Snake Gif" width="500" height="80"/>
