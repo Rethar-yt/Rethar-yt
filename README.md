@@ -27,7 +27,7 @@
 </ul>
 <h3>Contact Me</h3>
 <ul>
-  <li><strong>Email:</strong> retharyt@gmail.com</li>
+  <li><strong>Email:</strong> retharyt@gmail.com <img src="https://cdn.dribbble.com/users/4874/screenshots/3074660/gmaildribbble.gif" width="30" height="30"/></li>
   <li><strong>LinkedIn:</strong> <a href="https://za.linkedin.com/in/rethar-osman-abdullah">https://za.linkedin.com/in/rethar-osman-abdullah</a> <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkdn Gif" width="30" height="30" /> </li>
 </ul>
 <h3>Technologies</h3>
