@@ -18,12 +18,16 @@
     <li>Introduction to Web Development</li>
     <li>Programming with Python</li>
     <li>Version Control</li>
+    <li>Databases</li>
+    <li>Currently studying Django Web Framework</li>
   </ul>
 </ul>
 <h3>Projects</h3>
 <ul>
-  <li><a href="https://github.com/Rethar-yt/Projects/tree/main/30_Seconds_Style_Game">30 Seconds Cmd Game </a><img src="https://thumbs.gfycat.com/ForthrightUnnaturalHoopoe-size_restricted.gif" width="20" height="20"/></li>
-  <li><a href="https://github.com/Rethar-yt/Projects/tree/main/Uni_Vat_Tax_Calculator">Universal VAT/Sales Tax Calculator </a><img src="https://media3.giphy.com/media/EAAKR8I15yFg0RK5as/giphy.gif" width="20" height="20" /></li>
+  <li><a href="https://github.com/Rethar-yt/30-Seconds-Board-Game">Python Scipt - 30 Seconds Game</a></li>
+  <li><a href="https://github.com/Rethar-yt/Universal-Vat-Calculator">Python GUI - Universal VAT_Sales Tax Calculator</a></li>
+  <li><a href="https://github.com/Rethar-yt/rethar-yt.github.io">Website Project - NeptuneLabs</a></li>
+  
 </ul>
 <h3>Contact Me</h3>
 <ul>
