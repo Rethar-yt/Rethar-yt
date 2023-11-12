@@ -19,7 +19,8 @@
     <li>Programming with Python</li>
     <li>Version Control</li>
     <li>Databases</li>
-    <li>Currently studying Django Web Framework</li>
+    <li>Django Web Framework</li>
+    <li>Currently studying API's through Meta</li>
   </ul>
 </ul>
 <h3>Projects</h3>
